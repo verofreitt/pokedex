@@ -22,3 +22,4 @@ Como desafio foi sugerido que criassemos um card com informações sobre cada po
 - `Requisição HTTP`
 
 ### Uma pequena visualização de como o projeto ficou finalizado 
+![Pokedex](https://github.com/verofreitt/pokedex/assets/113372101/9710f513-b239-467f-a5e7-dc057e73cb41)
